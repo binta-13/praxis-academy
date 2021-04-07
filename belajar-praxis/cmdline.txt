@@ -1,0 +1,21 @@
+20 command line
+1.	Mkdir: digunakan untuk membuat folder.
+2.	Tasklist : digunakan untuk melihat progam yang berjalan di windows
+3.	Taskkill /F /PID “port yang ingin di hentikan” : digunakan untuk menghentikan aplikasi yang berjalan
+4.	Cd .. : untuk kembali directory yang telah di buka
+5.	Cd “nama folder” : digunakan untuk memasuki folder 
+6.	Attrib : melihat atribut file yang ada di folder
+7.	Dir : untuk melihat file yang ada di folder
+8.	Chkdsk : untuk mengecek isi hardisk(cmd harus masuk ke administrator)
+9.	Date : digunakan melihat tanggal pada pc/laptop
+10.	Help : digunakan untuk panduan cmd
+11.	Ipconfig  : untuk melihat alamat ip pada pc/laptop
+12.	Ping : untuk mengecek respon pada jaringan
+13.	 Ver : menampilkan version windows
+14.	Systeminfo : menampilkan daftar system 
+15.	Cls : mengahupus line di cmd 
+16.	Arp : untuk menampilkan Address Resolution Protocol
+17.	Color : merubah warna pada cmd
+18.	Echo : untuk mengeluarkan pesan DOS
+19.	Hostname : menampilkan nama host
+20.	Cmdkey : digunakan untuk membuat, menghapus, atau melihat username dan password yang digunakan untuk login ke komputer.
